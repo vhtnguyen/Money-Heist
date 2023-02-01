@@ -1,0 +1,9 @@
+
+
+yêu cầu dev đổi tên thư mục 'music' trong folder source game thành 'sounds' để đúng nghĩa hơn, lưu ý điều chỉnh url cũ trong code .
+- vào game chạy sound menu, mỗi lần thực hiện chọn thì có âm thanh clicky.
+- nếu vào mini game sẽ có nhạc mini game riêng
+- nếu vào screen shop thì khi mua sẽ có tiếng  sold
+- khi vào gameplay sẽ có nhạc tương ứng của từng map và chạy song song là cheering (tiếng khán giả cổ vũ)
+- khi đụng bùa sẽ có tiếng bufftouching
+- sau khi gameplay chạy xong hiện ranking thì nếu người chơi win chạy sound victory, nếu thua chạy sound lose
